@@ -2,7 +2,7 @@
 
 import sys
 import re
-from rules import rules
+from submodules.rules import rules
 from phue import Bridge
 
 HUE_ACTIVE = False
